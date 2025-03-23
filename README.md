@@ -30,4 +30,4 @@ information, task scheduling (schedule), threading, and **cross-platform develop
 - 📧 Email: [manrek.shivani8@gmail.com](mailto:manrek.shivani8@gmail.com)
 - 🔗 LinkedIn: [shivani-sharma](https://www.linkedin.com/in/shivani-sharma-ab598a2a7/)
 - 💻 GitHub: [Shivani0618](https://github.com/Shivani0618)
-- 📄 Resume: [Click Here to View](https://github.com/khushi-narang/Resume/blob/main/Resume.pdf)
+- 📄 Resume: [Click Here to View](https://github.com/Shivani0618/Resume/blob/main/Resume.pdf)
